@@ -1,13 +1,4 @@
-print("Start Coding")
 print("Modified in patch-1 branch")
-
-
-def mult(x,y):
-    return x*y    
-
-def you(x):
-    print(x)    
-
 def add(x,y):
     return x+y
 
